@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff14f0384dc83fd70f2ed50caef51b44",
+    "revision": "95570cf97afda2a85acf0807a8b85ed7",
     "url": "/MERN-Shopping-List/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MERN-Shopping-List/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "1eb49edabbe7ec546c7c",
+    "revision": "d3de6601d35391fae55c",
     "url": "/MERN-Shopping-List/static/css/main.5ddc4067.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MERN-Shopping-List/static/js/2.73a22d37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1eb49edabbe7ec546c7c",
-    "url": "/MERN-Shopping-List/static/js/main.a8cfe5e3.chunk.js"
+    "revision": "d3de6601d35391fae55c",
+    "url": "/MERN-Shopping-List/static/js/main.d4afa2f2.chunk.js"
   },
   {
     "revision": "061fecdfb2239e7715fd",
