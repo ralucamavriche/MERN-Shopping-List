@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live demo: [https://ralucamavriche.github.io/MERN-Shopping-List/](https://ralucamavriche.github.io/MERN-Shopping-List/)
+Live demo client: [https://ralucamavriche.github.io/MERN-Shopping-List/](https://ralucamavriche.github.io/MERN-Shopping-List/)
+Server: [https://mern-shopping-list-server.herokuapp.com](https://mern-shopping-list-server.herokuapp.com)
 
 ## Available Scripts
 
