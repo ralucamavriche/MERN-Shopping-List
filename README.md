@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live demo: [https://ralucamavriche.github.io/MERN-Shopping-List/](https://ralucamavriche.github.io/MERN-Shopping-List/)
+
 ## Available Scripts
 
 In the project directory, you can run:
