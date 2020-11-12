@@ -1,4 +1,4 @@
-Live demo for the client: [CLIENT](https://ralucamavriche.github.io/MERN-Shopping-List/) <br />
+Live demo for the client: [CLIENT](https://ralucamavriche.github.io/MERN-Shopping-List-Client/) <br /> <br />
 Live demo for the server: [SERVER](https://mern-shopping-list-server.herokuapp.com)  <br />
 
 ## Available Scripts
