@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MERN-Shopping-List/static/css/main.5ddc4067.chunk.css",
-    "main.js": "/MERN-Shopping-List/static/js/main.d4afa2f2.chunk.js",
-    "main.js.map": "/MERN-Shopping-List/static/js/main.d4afa2f2.chunk.js.map",
-    "runtime-main.js": "/MERN-Shopping-List/static/js/runtime-main.d403df82.js",
-    "runtime-main.js.map": "/MERN-Shopping-List/static/js/runtime-main.d403df82.js.map",
-    "static/css/2.69121389.chunk.css": "/MERN-Shopping-List/static/css/2.69121389.chunk.css",
-    "static/js/2.73a22d37.chunk.js": "/MERN-Shopping-List/static/js/2.73a22d37.chunk.js",
-    "static/js/2.73a22d37.chunk.js.map": "/MERN-Shopping-List/static/js/2.73a22d37.chunk.js.map",
-    "index.html": "/MERN-Shopping-List/index.html",
-    "precache-manifest.aa7f405d1c7d1bdfa78d00e7344021c1.js": "/MERN-Shopping-List/precache-manifest.aa7f405d1c7d1bdfa78d00e7344021c1.js",
-    "service-worker.js": "/MERN-Shopping-List/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/MERN-Shopping-List/static/css/2.69121389.chunk.css.map",
-    "static/css/main.5ddc4067.chunk.css.map": "/MERN-Shopping-List/static/css/main.5ddc4067.chunk.css.map",
-    "static/js/2.73a22d37.chunk.js.LICENSE.txt": "/MERN-Shopping-List/static/js/2.73a22d37.chunk.js.LICENSE.txt"
+    "main.css": "/MERN-Shopping-List-Client/static/css/main.5ddc4067.chunk.css",
+    "main.js": "/MERN-Shopping-List-Client/static/js/main.63716066.chunk.js",
+    "main.js.map": "/MERN-Shopping-List-Client/static/js/main.63716066.chunk.js.map",
+    "runtime-main.js": "/MERN-Shopping-List-Client/static/js/runtime-main.5f343b1c.js",
+    "runtime-main.js.map": "/MERN-Shopping-List-Client/static/js/runtime-main.5f343b1c.js.map",
+    "static/css/2.69121389.chunk.css": "/MERN-Shopping-List-Client/static/css/2.69121389.chunk.css",
+    "static/js/2.73a22d37.chunk.js": "/MERN-Shopping-List-Client/static/js/2.73a22d37.chunk.js",
+    "static/js/2.73a22d37.chunk.js.map": "/MERN-Shopping-List-Client/static/js/2.73a22d37.chunk.js.map",
+    "index.html": "/MERN-Shopping-List-Client/index.html",
+    "precache-manifest.c22cf5f84c3a0372a90b7e2d8fd8b6d4.js": "/MERN-Shopping-List-Client/precache-manifest.c22cf5f84c3a0372a90b7e2d8fd8b6d4.js",
+    "service-worker.js": "/MERN-Shopping-List-Client/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/MERN-Shopping-List-Client/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ddc4067.chunk.css.map": "/MERN-Shopping-List-Client/static/css/main.5ddc4067.chunk.css.map",
+    "static/js/2.73a22d37.chunk.js.LICENSE.txt": "/MERN-Shopping-List-Client/static/js/2.73a22d37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d403df82.js",
+    "static/js/runtime-main.5f343b1c.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.73a22d37.chunk.js",
     "static/css/main.5ddc4067.chunk.css",
-    "static/js/main.d4afa2f2.chunk.js"
+    "static/js/main.63716066.chunk.js"
   ]
 }
